@@ -45,3 +45,5 @@ fonts.tar
 fonts.tar.gz
 temp/
 .idea/
+
+.ds_store
