@@ -72,10 +72,10 @@ def createsubset(katex_font_path, firamath_font_path):
 # KaTeX_AMS font is mapping Latin Capital Letter to blackboard A... I do not see the point of this...
 fontlist=[
     # ("KaTeX_AMS-Regular.ttf","FiraMath-Regular.otf"),   # need adjustment!
-    ("KaTeX_Main-Bold.ttf","FiraGO-SemiBold.otf"),
-    ("KaTeX_Main-BoldItalic.ttf","FiraGO-SemiBoldItalic.otf"),
-    ("KaTeX_Main-Italic.ttf","FiraGO-Italic.otf"),
-    ("KaTeX_Main-Regular.ttf","FiraGO-Regular.otf"),
+    # ("KaTeX_Main-Bold.ttf","FiraMath-Regular.otf"),
+    # ("KaTeX_Main-BoldItalic.ttf","FiraMath-Regular.otf"),
+    ("KaTeX_Main-Italic.ttf","FiraMath-Regular.otf"),
+    ("KaTeX_Main-Regular.ttf","FiraMath-Regular.otf"),
     ("KaTeX_Math-Italic.ttf","FiraMath-Regular.otf"),
     # missing KaTeX_AMS-Regular.ttf & KaTeX_Size{1,2,3,4}-Regular.ttf
 ]

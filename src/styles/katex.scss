@@ -11,7 +11,7 @@ $version: "" !default;
 $display-margin: 1em 0 !default;
 
 .katex {
-    font: normal 1.21em KaTeX_Main, Times New Roman, serif;
+    font: normal 1.21em FiraMath_Main, FiraMath_Math, serif;
     line-height: 1.2;
 
     // Protect elements inside .katex from inheriting text-indent.
@@ -77,7 +77,7 @@ $display-margin: 1em 0 !default;
 
     // Text font families.
     .textrm {
-        font-family: KaTeX_Main;
+        font-family: FiraMath_Main, FiraMath_Math;
     }
 
     .textsf {
@@ -90,12 +90,12 @@ $display-margin: 1em 0 !default;
 
     // Math fonts.
     .mathnormal {
-        font-family: KaTeX_Math;
+        font-family: FiraMath_Math;
         font-style: italic;
     }
 
     .mathit {
-        font-family: KaTeX_Main;
+        font-family: FiraMath_Main, FiraMath_Math;
         font-style: italic;
     }
 
@@ -104,12 +104,12 @@ $display-margin: 1em 0 !default;
     }
 
     .mathbf {
-        font-family: KaTeX_Main;
+        font-family: FiraMath_Main, FiraMath_Math;
         font-weight: bold;
     }
 
     .boldsymbol {
-        font-family: KaTeX_Math;
+        font-family: FiraMath_Math;
         font-weight: bold;
         font-style: italic;
     }
@@ -166,7 +166,7 @@ $display-margin: 1em 0 !default;
     }
 
     .mainrm {
-        font-family: KaTeX_Main;
+        font-family: FiraMath_Main, FiraMath_Math;
         font-style: normal;
     }
 
