@@ -49,7 +49,7 @@ $use-ttf: true !default;
     }
 }
 
-@include font-face('KaTeX_AMS', normal, normal);
+@include font-face('FiraMath_AMS', normal, normal);
 @include font-face('KaTeX_Caligraphic', bold, normal);
 @include font-face('KaTeX_Caligraphic', normal, normal);
 @include font-face('KaTeX_Fraktur', bold, normal);
@@ -64,7 +64,7 @@ $use-ttf: true !default;
 @include font-face('KaTeX_SansSerif', normal, italic);
 @include font-face('KaTeX_SansSerif', normal, normal);
 @include font-face('KaTeX_Script', normal, normal);
-@include font-face('KaTeX_Size1', normal, normal);
+@include font-face('FiraMath_Size1', normal, normal);
 @include font-face('KaTeX_Size2', normal, normal);
 @include font-face('KaTeX_Size3', normal, normal);
 @include font-face('KaTeX_Size4', normal, normal);
