@@ -77,7 +77,10 @@ fontlist=[
     ("KaTeX_Main-Italic.ttf","FiraMath-Italic.otf"),
     ("KaTeX_Main-Regular.ttf","FiraMath-Regular.otf"),
     ("KaTeX_Math-Italic.ttf","FiraMath-Italic.otf"),
-    ("KaTeX_Size1-Regular.ttf","FiraMath-SIZEONE.otf")
+    ("KaTeX_Size1-Regular.ttf","FiraMath-SIZEONE.otf"),
+    ("KaTeX_Size2-Regular.ttf","FiraMath-SIZETWO.otf"),
+    ("KaTeX_Size3-Regular.ttf","FiraMath-SIZETHREE.otf"),
+    ("KaTeX_Size4-Regular.ttf","FiraMath-SIZEFOUR.otf"),
 ]
 
 # createsubset("KaTeX_AMS-Regular.ttf","FiraMath-Regular.otf")
